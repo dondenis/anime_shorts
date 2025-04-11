@@ -1,0 +1,8 @@
+Flask
+moviepy==1.0.3
+transformers>=4.30.0
+torch
+soundfile
+sentencepiece
+numpy
+Werkzeug
